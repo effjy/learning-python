@@ -1,3 +1,7 @@
+<div align="center">
+<a href="https://github.com/effjy/learning-python/"><img src="titles/learning-python-title.svg" height="52" alt="Learning Python"></a>
+</div>
+
 # Learning to Code in Python — A Complete Beginner's Guide
 
 Welcome! This document is a hands-on, from-scratch introduction to the **Python programming language**. It assumes you have *never written a line of Python* before. By the end you will understand what a program is, how to write and run one, how Python differs from lower-level languages, and you will have solved **5 exercises** that grow in difficulty.
